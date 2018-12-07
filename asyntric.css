@@ -266,7 +266,7 @@ pre,
   background: #171717;
 }
 #user-profile-modal .header .additional-actions-icon {
-  background-image: url("https://cdn.rawgit.com/Templarian/MaterialDesign/423bb328/icons/svg/menu-down.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Templarian/MaterialDesign@423bb328/icons/svg/menu-down.svg");
   background-size: 150%;
   padding: 0;
   right: 28px;
@@ -338,7 +338,7 @@ pre,
   color: #fff;
 }
 #user-profile-modal .guilds .section .connected-accounts .connected-account .connected-account-name-inner .connected-account-verified-icon {
-  background-image: url("https://cdn.rawgit.com/Templarian/MaterialDesign/423bb328/icons/svg/checkbox-marked-circle-outline.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Templarian/MaterialDesign@423bb328/icons/svg/checkbox-marked-circle-outline.svg");
   filter: invert();
   background-size: 16px 16px;
   opacity: 0.5;
@@ -348,7 +348,7 @@ pre,
   opacity: 1;
 }
 #user-profile-modal .guilds .section .connected-accounts .connected-account a .connected-account-open-icon {
-  background-image: url("https://cdn.rawgit.com/Templarian/MaterialDesign/423bb328/icons/svg/link.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Templarian/MaterialDesign@423bb328/icons/svg/link.svg");
   filter: invert();
   background-size: 125%;
   opacity: 0.5;
@@ -405,7 +405,7 @@ pre,
 .chat .content div:nth-child(1) .messages-wrapper .messages .message.first .timestamp {
   float: right;
   color: rgba(255,255,255,0.5);
-  background: url("https://cdn.rawgit.com/twitter/twemoji/gh-pages/svg/1f552.svg") no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/twitter/twemoji@gh-pages/svg/1f552.svg") no-repeat;
 }
 .chat .content div:nth-child(1) .messages-wrapper .messages .message.first .timestamp::before {
   content: '🕐 ';
